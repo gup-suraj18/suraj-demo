@@ -1,6 +1,4 @@
 # suraj-demo
-just try it for fun
-<br>
-Enjoy it v.well...!
+This is my first repository.
 <br>
 Author-Suraj Gupta
